@@ -19,7 +19,7 @@ const App = () => {
 					</div>
 					<div className='reset'>
 						<button onClick={() => setCount((prevCount) => (prevCount = 0))}>
-							Resetgi
+							Reset
 						</button>
 					</div>
 				</div>
