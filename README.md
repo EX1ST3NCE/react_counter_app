@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+# Counter App using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first react app.This project has a counter that is initialised to Zero. It has 3 buttons, '+' , '-'  and 'Reset'.  
 
-## Available Scripts
+## Getting Started with Create React App
 
-In the project directory, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Materialize css is used in the project.
+
+### `npm install`
+
+Install the required npm modules using this command.
 
 ### `npm start`
 
