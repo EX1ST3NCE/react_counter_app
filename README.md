@@ -6,6 +6,10 @@ This is my first react app.This project has a counter that is initialised to Zer
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Materialize css is used in the project.
 
+### `npm install`
+
+Install the required npm modules using this command.
+
 ### `npm start`
 
 Runs the app in the development mode.\
