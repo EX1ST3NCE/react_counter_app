@@ -1,0 +1,59 @@
+body {
+	background-color: #2e7d32;
+}
+h4 {
+	text-align: center;
+	color: white;
+	margin: 100px 0 50px 0;
+}
+.card {
+	background-color: #00695c;
+	margin: 200px auto 0 auto;
+	padding: 0;
+	width: 30%;
+	height: 250px;
+	border: 1px solid wheat;
+	border-radius: 5px;
+	box-shadow: 2px 5px wheat;
+}
+
+.card-title {
+	text-align: center;
+	color: white;
+	margin-top: 20px;
+}
+
+.content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 120px;
+}
+
+.reset {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.reset button {
+	width: 70px;
+	height: 40px;
+	font-size: 20px;
+	background-color: #212121;
+}
+
+button {
+	width: 30px;
+	height: 30px;
+	border: 1px solid black;
+	border-radius: 2px;
+	margin: 0 10px 0 10px;
+	background-color: #e91e63;
+	color: white;
+}
+
+span {
+	color: white;
+	font-size: 30px;
+}
