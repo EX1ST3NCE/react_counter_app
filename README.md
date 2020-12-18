@@ -1,6 +1,6 @@
 # Counter App using React
 
-This is my react app.This project has a counter that is initialised to Zero. It has 3 buttons, '+' , '-'  and 'Reset'.  
+This is my first react app.This project has a counter that is initialised to Zero. It has 3 buttons, '+' , '-'  and 'Reset'.  
 
 ## Getting Started with Create React App
 
